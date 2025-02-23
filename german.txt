@@ -7,4 +7,5 @@ Wie geht es ihnen? (How are you?)
 Danke,sehr gut! (Thank you,very good)
 Wie heizen sie? ( What is your name?)
 Ich heize Sharanya (My name is Sharanya)
-
+Wo wohnnen sie? (Where do you live?)
+Ich komme aus DHL (I live in DHL)
