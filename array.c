@@ -10,3 +10,7 @@ int main(){
    for(int I=0;i<10;i++){
       sum=sum+arr[i];
    }
+   printf("Sum of array: %d\n",sum);
+   
+   return 0;
+}
